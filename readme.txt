@@ -3,7 +3,7 @@ Contributors: ericjuden
 Tags: pirate, language, shortcode, translate, translation
 Requires at least: 3.0
 Tested up to: 3.5
-Stable tag: trunk
+Stable tag: master
 License: GPLv2 or later
 
 Speak Pirate translates text in a shortcode into the equivalent text spoken as a pirate
